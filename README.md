@@ -15,7 +15,7 @@ This project analyzes Starbucks Coffee sales and customer preferences using data
 - Scikit-learn
 
 ## Project Steps
-1. Data Collection
+1. Data Collection (dummy)
 2. Data Cleaning
 3. Exploratory Data Analysis (EDA)
 4. Customer Segmentation
